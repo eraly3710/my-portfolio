@@ -10,9 +10,12 @@
   --hue-color: 250;
   /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
 
-  --first-color: #7e459b;
+  /* --first-color: #7e459b;
   --first-color-second: #7e459b;
-  --first-color-alt: #7e459b;
+  --first-color-alt: #7e459b; */
+  --first-color: #1e3a8a;        /* Deep Blue */
+--first-color-second: #1e40af; /* Stronger Blue */
+--first-color-alt: #3b82f6;
   --first-color-lighter: #c1b6fc;
   --title-color: #242329;
   --text-color: #6f7a7e;
