@@ -1,6 +1,4 @@
-# Juliana Teixeira - Web developer | Portfolio 
+# Ислам - Веб-бағдарламашы | Портфолио 
 
-Welcome to my new portfolio! 💻
-<br>
-<a href="https://ajuteixeira.github.io/portfolio/" target="_blank">Click here to access the website :)</a>
+Менің портфолиома қош келдіңіз! 💻
  
